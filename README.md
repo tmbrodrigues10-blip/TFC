@@ -4,7 +4,7 @@
 
 Este projeto está a ser desenvolvido no âmbito do Trabalho Final de Curso (TFC) da Licenciatura em Ciência de Dados da Universidade Lusófona.
 
-O objetivo é explorar e analisar dados estatísticos do Counter-Strike, procurando identificar padrões, tendências e relações entre diferentes indicadores de desempenho de jogadores e equipas.
+O objetivo é explorar e analisar dados estatísticos do Counter-Strike, procurar identificar padrões e relações entre diferentes indicadores de desempenho de jogadores e equipas.
 
 ## Fonte dos dados
 
