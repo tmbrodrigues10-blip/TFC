@@ -23,15 +23,6 @@ O dataset foi desenvolvido por terceiros e será utilizado como fonte de dados p
 - Desenvolver visualizações estatísticas.
 - Explorar possíveis aplicações de Machine Learning.
 
-## Tecnologias
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-
-## Estado do projeto
 
 Projeto em fase inicial de desenvolvimento.
